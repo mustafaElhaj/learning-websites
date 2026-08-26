@@ -336,7 +336,7 @@ header .container .social i:hover{
 /* start hero style */
 
 .hero{
-    background-image: url(apple-landing-page/img/new/back2.jpg);
+    background-image: url(../img/new/back2.jpg);
     background-size: cover;
     background-attachment: fixed;
     height: calc(100vh - 50px);
