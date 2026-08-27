@@ -373,7 +373,7 @@ header .container .social i:hover {
 /* start hero style */
 
 .hero {
-    background-image: url(/img/hero-back3.jpg);
+    background-image: url(img/hero-back3.jpg);
     background-size: cover;
     background-attachment: fixed;
     height: calc(100vh - 50px);
@@ -1343,7 +1343,7 @@ header .container .social i:hover {
 .statistics {
     margin: 50px 5px;
     padding: 70px 0;
-    background-image: url(/img/new/back7.jpg);
+    background-image: url(img/new/back7.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -2110,7 +2110,7 @@ header .container .social i:hover {
 /*===============================================================*/
 
 footer {
-    background-image: url(/img/new/back1.jpg);
+    background-image: url(img/new/back1.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
