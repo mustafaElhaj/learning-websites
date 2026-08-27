@@ -79,7 +79,7 @@ a {
     height: 50px;
     width: 100%;
     background-color: var(--black1);
-    background-image: url(/img/hero-back3.jpg);
+    background-image: url(img/hero-back3.jpg);
     background-position: bottom ;
     background-size: cover;
     background-attachment: fixed;
@@ -701,9 +701,8 @@ header .container .social i:hover {
 .back-to-top {
     background-color: var(--secondary);
     color: var(--text-dark);
-    width: 30px;
-    height: 30px;
     border-radius: 50%;
+    font-size: 14px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -719,11 +718,10 @@ header .container .social i:hover {
 
 .whatsapp-btn {
     position: fixed;
+    font-size: 14px;
     color: var(--text-dark);
     background-color: #25d366;
     border-radius: 50%;
-    width: 30px;
-    height: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1310,7 +1308,7 @@ header .container .social i:hover {
 .statistics {
     margin: 50px 5px;
     padding: 70px 0;
-    background-image: url(/img/new/back7.jpg);
+    background-image: url(img/new/back7.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -2015,7 +2013,7 @@ header .container .social i:hover {
 /*===============================================================*/
 
 footer {
-    background-image: url(/img/new/back1.jpg);
+    background-image: url(img/new/back1.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
