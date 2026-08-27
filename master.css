@@ -735,8 +735,6 @@ header .container .social i:hover {
 .back-to-top {
     background-color: var(--secondary);
     color: var(--text-dark);
-    width: 35px;
-    height: 35px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -756,8 +754,6 @@ header .container .social i:hover {
     color: var(--text-dark);
     background-color: #25d366;
     border-radius: 50%;
-    width: 35px;
-    height: 35px;
     display: flex;
     justify-content: center;
     align-items: center;
